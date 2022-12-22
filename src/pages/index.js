@@ -7,7 +7,7 @@ const IndexPage = () => (
       <div className="HeroGroup">
         <h1>Learn to <br /> design and code react apps</h1>
         <p>Complete courses about the best tools and design sysytems. Prototype and buid apps with React and Swift. </p>
-        <Link to="/page-2/">Watch the video</Link>
+        <Link to="/page-2/">video</Link>
         <div className="Logos">
           <img src={require('../images/logo-sketch.png')} width="50" />
           <img src={require('../images/logo-figma.png')} width="50" />
